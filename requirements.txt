@@ -9,6 +9,6 @@ shap==0.46.0
 fairlearn==0.11.0
 jupyter==1.1.1
 openpyxl==3.1.5
-pytest==8.3.5
+pytest==9.0.3
 nbformat==5.10.4
 nbclient==0.10.2
