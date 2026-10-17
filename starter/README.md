@@ -48,7 +48,7 @@ starter/
    All 34 tests must pass before you submit.
 3. **Run `audit_notebook.ipynb`.** It calls your `lab/` code, runs the audit, and writes results to the Excel portfolio (Tab 04 D4 + Tab 07 D7 status).
 4. **Fill in the [HAND] tabs in `governance_portfolio.xlsx`:** D1, D2, D3, the rest of D5, D6, D8.
-5. **Sanity check:** open `../rubric.md` and walk down each criterion — anything you missed?
+5. **Sanity check:** open the [Submission checklist](#submission-checklist) below and walk down each item — anything you missed?
 
 ## The two parallel tracks
 
